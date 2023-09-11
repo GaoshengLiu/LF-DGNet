@@ -67,8 +67,8 @@ class Estimator(nn.Module):
 
 def ind_cal(angout, angin):
     """
-    :param features: shape of features -> [batch_size, c, h, w]
-    :return: features_mean, feature_s: shape of mean/std ->[batch_size, c, 1, 1]
+    :param features: 
+    :return: 
     """
 
     ind_all = np.arange(angout*angout).reshape(angout, angout)        
