@@ -33,7 +33,6 @@ If you find this work helpful, please consider citing the following papers:<br>
   year={2023},
   publisher={IEEE}
 }
-}
 ```
 ## Acknowledgement
 Our work and implementations are inspired and based on the following projects: <br> 
